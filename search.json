@@ -2,21 +2,11 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "bedeprog",
+    "title": "Programming pedagogy for biological and environmental science instructors",
     "section": "",
-    "text": "Programming pedagogy for biological and environmental science instructors\nThis is a book by the Biological and Environmental Data Education (BEDE) Network. It was written to support the many biology and environmental science instructors who teach programming but never received formal instruction themselves. Though the computer science pedagogy literature contains many evidence-based teaching techniques, the jargon and examples are rarely relevant to biology and environmental science contexts. Each chapter of this book distills one such technique using biology-friendly language and demonstrates how to apply the technique in lectures, labs, and/or assessments. We were inspired by James M. Lang’s Small Teaching (Lang 2016), which encourages incremental improvements to instruction. Biology and environmental science instructors don’t need to become computer science pedagogy experts overnight. Rather, our intention is to provide digestible resources for instructors to gradually improve the quality of their programming teaching.\n\n\n\n\nLang, James M. 2016. Small Teaching. 1st ed. San Francisco, CA: Jossey-Bass.",
+    "text": "Welcome\nThis is a book by the Biological and Environmental Data Education (BEDE) Network. It was written to support the many biology and environmental science instructors who teach programming but never received formal instruction themselves. Though the computer science pedagogy literature contains many evidence-based teaching techniques, the jargon and examples are rarely relevant to biology and environmental science contexts. Each chapter of this book distills one such technique using biology-friendly language and demonstrates how to apply the technique in lectures, labs, and/or assessments. We were inspired by James M. Lang’s Small Teaching (Lang 2016), which encourages incremental improvements to instruction. Biology and environmental science instructors don’t need to become computer science pedagogy experts overnight. Rather, our intention is to provide digestible resources for instructors to gradually improve the quality of their programming teaching.\n\n\n\n\nLang, James M. 2016. Small Teaching. 1st ed. San Francisco, CA: Jossey-Bass.",
     "crumbs": [
-      "Programming pedagogy for biological and environmental science instructors"
-    ]
-  },
-  {
-    "objectID": "preface.html",
-    "href": "preface.html",
-    "title": "Preface",
-    "section": "",
-    "text": "This is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Preface"
+      "Welcome"
     ]
   },
   {

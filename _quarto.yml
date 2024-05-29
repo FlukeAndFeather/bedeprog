@@ -2,12 +2,11 @@ project:
   type: book
 
 book:
-  title: "bedeprog"
+  title: "Programming pedagogy for biological and environmental science instructors"
   author: "BEDE Network"
   date: "5/29/2024"
   chapters:
     - index.qmd
-    - preface.qmd
     - intro.qmd
     - part: part1.qmd
       chapters:

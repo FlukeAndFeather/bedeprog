@@ -1,0 +1,35 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "bedeprog"
+  author: "BEDE Network"
+  date: "5/29/2024"
+  chapters:
+    - index.qmd
+    - preface.qmd
+    - intro.qmd
+    - part: part1.qmd
+      chapters:
+        - ch1.qmd
+        - ch2.qmd
+        - ch3.qmd
+    - part: part2.qmd
+      chapters:
+        - ch4.qmd
+        - ch5.qmd
+        - ch6.qmd
+    - conclusion.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

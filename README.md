@@ -11,3 +11,5 @@ If you're unfamiliar with RStudio and GitHub, we recommend pairing up with someo
 3.  Clone your copy of bedeprog and open the project in RStudio.
 4.  (Recommended) Create a branch based on the exercise's name e.g., `slwe` for subgoal-labeled worked examples.
 5.  Replace your chapter (e.g., ch1.qmd) with a copy of template.qmd. See instructions therein.
+
+Ellen and Max are here to help! Please flag us down if/when your group gets stuck.

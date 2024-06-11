@@ -19,7 +19,7 @@ If you're unfamiliar with RStudio and GitHub, we recommend pairing up with someo
 
 ### How to edit this document
 
-To the best of your ability, fill out the following sections: "What is it", "How do you use it?", "When are they useful?", "Challenges", and "Biological example" based on the corresponding Lightning Talk. If you're unfamiliar with markdown (the markup language for text in Quarto documents), see [Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html) or ask one of us for help.
+To the best of your ability, fill out the following sections: "What is it", "How do you use it?", "When are they useful?", "Challenges", and "Biological example" based on the corresponding [Lightning Talk](https://drive.google.com/drive/u/0/folders/1tezQAIK6qR-X3u-HjM8InoVJXRlqYRV8). If you're unfamiliar with markdown (the markup language for text in Quarto documents), see [Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html) or ask one of us for help.
 
 Add citations as appropriate. They look like this: [@lang21]. The easiest way is: Insert \> Citation \>From DOI, which will add the necessary info to references.bib.
 

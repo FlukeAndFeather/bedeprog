@@ -1,3 +1,60 @@
-# Chapter 1
+---
+author: 
+  - name: Drosophila melanogaster
+  - name: Arabidopsis thaliana
+---
 
-A thing!
+# Subgoal Labeled Worked Example
+
+## Instructions
+
+### Before you begin
+
+If you're unfamiliar with RStudio and GitHub, we recommend pairing up with someone.
+
+1.  Log in to GitHub.
+2.  Fork a copy of [flukeandfeather/bedeprog](https://github.com/FlukeAndFeather/bedeprog).
+3.  Clone your copy of bedeprog and open the project in RStudio.
+4.  (Recommended) Create a branch based on the exercise's name e.g., `slwe` for subgoal-labeled worked examples.
+
+### How to edit this document
+
+NOTE: Change the name of this file from template.qmd.
+
+To the best of your ability, fill out the following sections: "What is it", "How do you use it?", "When are they useful?", "Challenges", and "Biological example" based on the corresponding [Lightning Talk](https://drive.google.com/drive/u/0/folders/1tezQAIK6qR-X3u-HjM8InoVJXRlqYRV8). If you're unfamiliar with markdown (the markup language for text in Quarto documents), see [Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html) or ask one of us for help.
+
+Add citations as appropriate. They look like this: [@lang21]. The easiest way is: Insert \> Citation \>From DOI, which will add the necessary info to references.bib.
+
+You can add formatted code snippets using Insert \> Code Block... and setting the language to R. They look like this:
+
+``` r
+foo <- 1:10
+foo[5]
+```
+
+Note: we recommend using Code Blocks instead of chunks/Executable Cells because we don't need the code to run. We just want to format the code.
+
+### Wrapping up
+
+1.  Render the document and verify it looks correct.
+2.  Commit your changes.
+3.  Push to GitHub.
+4.  Create a pull request.
+
+## What is it?
+
+A really cool exercise [@margulieux2019]
+
+## How do you use it?
+
+## When are they useful?
+
+## Challenges
+
+## Biological example
+
+``` R
+# This code shows how it works
+ggplot(penguis, aes(Species, Island)) +
+  geom_point()
+```
